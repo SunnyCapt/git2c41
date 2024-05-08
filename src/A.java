@@ -7,5 +7,6 @@ public class A {
 
         c.printHello();
         b.printWorld();
+
     }
 }
